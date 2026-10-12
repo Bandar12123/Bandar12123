@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Bandar Alsubhi</h1>
-<h3 align="center">Computer Science Student @ Tuwaiq Academy | C, C++ & Python</h3>
+<h3 align="center">Computer Science Student @ Tuwaiq Academy | C & Python</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bandar12123&color=blue&style=flat-square" alt="views" />
@@ -18,7 +18,7 @@
 An automated **V60-style drip coffee machine** powered by an **Arduino Nano ESP32**. It controls a water pump, servo, stepper-driven rotating plate, and relay, with a web UI to customize the brew.
 
 - **Hardware:** 12V pump, servo, ULN2003 stepper driver, relay, rotating dripper plate
-- **Firmware:** C++ (Arduino / ESP32)
+- **Firmware:** Arduino / ESP32
 - **Control:** physical button for the default recipe, or a web UI to set the pours and the wait time between them
 
 👉 [View the project](https://github.com/m7md-d/V6O)
@@ -35,7 +35,6 @@ An automated **V60-style drip coffee machine** powered by an **Arduino Nano ESP3
 
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
