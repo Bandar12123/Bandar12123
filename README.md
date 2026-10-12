@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Bandar Alsubhi</h1>
 <h3 align="center">Computer Science Student @ Tuwaiq Academy | C & Python</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bandar12123&color=blue&style=flat-square" alt="views" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
