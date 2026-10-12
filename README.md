@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Bandar</h1>
-<h3 align="center">Embedded & Systems Programming | C, C++ & Python</h3>
+<h1 align="center">Hi there 👋 I'm Bandar Alsubhi</h1>
+<h3 align="center">Computer Science Student @ Tuwaiq Academy | C, C++ & Python</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bandar12123&color=blue&style=flat-square" alt="views" />
@@ -8,10 +8,11 @@
 ---
 
 ### 🧑‍💻 About Me
+- 🎓 Computer Science student at **Tuwaiq Academy**
 - ☕ Contributor on **[V6O](https://github.com/m7md-d/V6O)**, an automated V60-style drip coffee machine
-- 🔭 Building C projects focused on systems and file handling
+- 🔭 Building C projects focused on systems and file handling, and Python tools for network analysis
 - 🌱 Learning embedded systems and low-level programming
-- 📍 Based in **Riyadh, Saudi Arabia**
+- 📍 Based in **Jeddah, Saudi Arabia**
 
 ### ☕ Featured Project: V6O
 An automated **V60-style drip coffee machine** powered by an **Arduino Nano ESP32**. It controls a water pump, servo, stepper-driven rotating plate, and relay, with a web UI to customize the brew.
@@ -26,6 +27,7 @@ An automated **V60-style drip coffee machine** powered by an **Arduino Nano ESP3
 
 | Project | Description |
 |---------|-------------|
+| 📡 [PacketWatch](https://github.com/Bandar12123/PacketWatch) | Python tool that reads and analyzes incoming network packets |
 | 🛡️ [VFS-Sentinel](https://github.com/Bandar12123/VFS-Sentinel) | File sentinel written in C |
 | ✂️ [NanoSplit](https://github.com/Bandar12123/NanoSplit) | C project |
 | 🖼️ [bmpreader-C-language](https://github.com/Bandar12123/bmpreader-C-language) | BMP image reader in C |
@@ -48,6 +50,6 @@ An automated **V60-style drip coffee machine** powered by an **Arduino Nano ESP3
 
 ### 📫 Get in Touch
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bandar-alsubhi-ab6972383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bandarhatim11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
