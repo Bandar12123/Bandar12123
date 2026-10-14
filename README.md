@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 - 🎓 Computer Science student at **Tuwaiq Academy**
 - ☕ Contributor on **[V6O](https://github.com/m7md-d/V6O)**, an automated V60-style drip coffee machine
-- 🔭 Building C projects focused on systems and file handling, and Python tools for network analysis
+- 🔭 Building C projects focused on systems and network programming, and Python tools for network analysis
 - 🌱 Learning embedded systems and low-level programming
 - 📍 Based in **Jeddah, Saudi Arabia**
 
@@ -24,10 +24,9 @@ An automated **V60-style drip coffee machine** powered by an **Arduino Nano ESP3
 | Project | Description |
 |---------|-------------|
 | 📡 [PacketWatch](https://github.com/Bandar12123/PacketWatch) | Python tool that reads and analyzes incoming network packets |
+| 💬 [ChatServer](https://github.com/Bandar12123/ChatServer) | Multi-user chat system in C, single-threaded and event-driven using `poll()` |
+| 🎥 [C-Live-Audio-Video-Streaming](https://github.com/Bandar12123/C-Live-Audio-Video-Streaming) | Low-latency live camera and microphone streaming over UDP in C |
 | 🛡️ [VFS-Sentinel](https://github.com/Bandar12123/VFS-Sentinel) | File sentinel written in C |
-| ✂️ [NanoSplit](https://github.com/Bandar12123/NanoSplit) | C project |
-| 🖼️ [bmpreader-C-language](https://github.com/Bandar12123/bmpreader-C-language) | BMP image reader in C |
-| 🎓 [Student-Record-Storage](https://github.com/Bandar12123/Student-Record-Storage) | Student records storage system in C |
 
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
