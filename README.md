@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Bandar Alsubhi</h1>
-<h3 align="center">Computer Science Student @ Tuwaiq Academy | C & Python</h3>
+<h3 align="center">Computer Science Student @ King Abdulaziz University | C & Python</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Computer Science student at **Tuwaiq Academy**
+- 🎓 Computer Science student at **King Abdulaziz University**
+- 🏕️ Currently in the **Systems Engineering & Programming Bootcamp** at **Tuwaiq Academy**
 - 🤝 Contributor on **[V6O](https://github.com/m7md-d/V6O)** and **[SDCS](https://github.com/m7md-d/SDCS)**
 - 🔭 Building C projects focused on systems and network programming, and Python tools for network analysis
 - 🌱 Learning embedded systems and low-level programming
