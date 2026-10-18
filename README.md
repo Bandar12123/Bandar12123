@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Computer Science student at **Tuwaiq Academy**
-- ☕ Contributor on **[V6O](https://github.com/m7md-d/V6O)**, an automated V60-style drip coffee machine
+- 🤝 Contributor on **[V6O](https://github.com/m7md-d/V6O)** and **[SDCS](https://github.com/m7md-d/SDCS)**
 - 🔭 Building C projects focused on systems and network programming, and Python tools for network analysis
 - 🌱 Learning embedded systems and low-level programming
 - 📍 Based in **Jeddah, Saudi Arabia**
@@ -18,6 +18,13 @@ An automated **V60-style drip coffee machine** powered by an **Arduino Nano ESP3
 - **Control:** physical button for the default recipe, or a web UI to set the pours and the wait time between them
 
 👉 [View the project](https://github.com/m7md-d/V6O)
+
+### 🤝 Contributions
+
+| Project | Description |
+|---------|-------------|
+| ☕ [V6O](https://github.com/m7md-d/V6O) | Automated V60-style drip coffee machine on Arduino Nano ESP32 |
+| 🚁 [SDCS](https://github.com/m7md-d/SDCS) | Smart Drone Controller System: draw on a web page using a drone controller connected to an Arduino, with Gemini API shape matching and scoring |
 
 ### 🚀 Other Projects
 
